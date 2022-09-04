@@ -1,8 +1,8 @@
-# MyMusicStore
-Simple HTML music store made with Bootstrap.
-Patika Boostrap Eğitimi Ödev 1
+# My Music Store
+## Simple HTML music store made with Bootstrap.
+### Patika Boostrap Eğitimi Ödev 1
 ---
-Bu site CSS'in özelliklerini kullanan bir müzik aleti satış sitesiydi. Bu siteyi Bootstrap ile tekrar tasarladım.
+#### Bu site CSS'in özelliklerini kullanan bir müzik aleti satış sitesiydi. Bu siteyi Bootstrap ile tekrar tasarladım.
 ---
 Ana Sayfa
 ![AnaSayfa](./img/Screenshot%202022-09-04%20at%2008-06-39%20Ana%20Sayfa.png)
